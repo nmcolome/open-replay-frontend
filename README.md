@@ -21,7 +21,7 @@ bun dev
 ```
 
 ## Testing OpenReplay
-The website displays an iframe linked here. To make sure it loads correctly, run both the iframe and this website using ngrok.
+The website displays an iframe linked [https://github.com/nmcolome/open-replay-iframe](here). To make sure it loads correctly, run both the iframe and this website using ngrok.
 Once you have the urls, replace the iframa url in the line 9 of the file `src/app/page.tsx`:
 ```
 ...
